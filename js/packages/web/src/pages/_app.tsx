@@ -22,7 +22,7 @@ export default function App({ Component, pageProps }: AppProps) {
           }
         }>
         <h1>Wellcome to the Thor: The 3 Year Old Artist.</h1>
-          <p><img src="atwork_mini.jpeg"></img></p>
+          <p><img src="atwork_mini.jpg"></img></p>
       </div>
       <div id="root">
         <Component {...pageProps} />
