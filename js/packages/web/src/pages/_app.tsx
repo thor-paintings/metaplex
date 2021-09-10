@@ -37,8 +37,7 @@ export default function App({ Component, pageProps }: AppProps) {
             textAlign: 'center'
           }
         }>
-          Underconstraction.
-        <a href=""><img src="twitter.png" width="96" height="96"></img></a>
+        <a href="https://twitter.com/ThorTheArtist"><img src="twitter.png" width="96" height="96"></img></a>
       </div>
     </>
   );
